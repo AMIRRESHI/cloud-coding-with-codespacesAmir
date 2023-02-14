@@ -3,7 +3,7 @@ const data = {
     {
       id: 10,
       name: 'Carrots',
-      description: '16oz package of fresh organic carrots one staging',
+      description: '16oz package of fresh organic carrots one staging next test',
       quantity: 7,
       imageClass: 'fas fa-carrot fa-3x',
     },
